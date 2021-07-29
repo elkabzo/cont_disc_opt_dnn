@@ -34,12 +34,10 @@ For the example above we get the following plot:
 ## Citation
 For citing the paper, you can use:
 ```
-@misc{elkabetz2021continuous,
-    title={Continuous vs. Discrete Optimization of Deep Neural Networks},
-    author={Omer Elkabetz and Nadav Cohen},
-    year={2021},
-    eprint={2107.06608},
-    archivePrefix={arXiv},
-    primaryClass={cs.LG}
+@article{elkabetz2021continuous,
+  title={Continuous vs. Discrete Optimization of Deep Neural Networks},
+  author={Elkabetz, Omer and Cohen, Nadav},
+  journal={arXiv preprint arXiv:2107.06608},
+  year={2021}
 }
 ```
